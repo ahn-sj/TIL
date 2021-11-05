@@ -32,6 +32,9 @@
 - throws와 try catch의 차이
 - 다형성 사용이유
 - @Autowired
+- junit의 역할
+- 시간복잡도
+- rownum을 이용한 쿼리
 - ==와 equals의 차이
 - String 리터럴과 생성자의 차이
 ```
