@@ -17,12 +17,16 @@ solve TIL lists one by one
 - .gitignore
 - SOLID(객체 지향 설계)
 - log4j와 sysout의 차이
-- 프레임워크와 라이브러리의 차이
+- API, Framework, Library
 - URI와 URL의 차이
 - 스프링과 스프링부트의 차이
 - 시간복잡도
 - J2EE / EJB
 - git명령
+- UML
+- 페르소나 설정
+- Pub/Sub 구조
+- 스케줄러
 
 <br>
 
@@ -40,6 +44,12 @@ solve TIL lists one by one
 - 형상관리와 협업관리의 차이
 - 오토박싱과 언박싱
 - 래퍼클래스
+- List / Set / Map
+- HashSet 사용 시 equals()와 hashCode() 오버라이딩
+- Iterator
+- Set으로 합/교/차집합 구현
+- HashMap(new)과 Hashtable(old)
+- Design Pattern - Observer Pattern, Iterator Pattern
 
 <br>
 
@@ -47,11 +57,15 @@ solve TIL lists one by one
 - 병목현상
 - oracle sequence
 - seq.nextval
+- row_number(), rank, rownum
 
 <br>
 
+- Spring View에서 Test방법
+- EL표현식
 - junit의 역할
 - JSTL
+- EL표현식
 - war / jar
 - VO, DTO, DAO, Entity, domain, Mapper
 - root-context.xml과 servlet-context.xml 차이
@@ -66,7 +80,7 @@ solve TIL lists one by one
 - 비지니스 로직(코드와 예제와 사용분야)
 - @RequestMapping - URL Mapping
 - mysql과 oracle접속 (mysql은 8.0부터 연결시 키워드 필요)
-- sqlSessionFactory
+- - sqlSession / sqlSessionFactory
 - dataSource
 - ns(namespaces)
 - mybatis dtd - mapper/configuration
@@ -81,6 +95,7 @@ solve TIL lists one by one
 - 와이어프레임 구조
 - 빌더패턴
 - resultMap과 resultType
+- RedirectAttributes rttr - addFlashAttribute / addAttribute
 
 <br>
 
