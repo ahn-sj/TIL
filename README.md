@@ -1,10 +1,12 @@
-# TIL
-## Today I Learned
+# TIL. Today I Learned
+
+## Roles
+### solve TIL lists one by one
 
 <br>
 
-## Roles
-solve TIL lists one by one
+## Start Date 
+### #1 2021.12.03 ~ 
 
 <br>
 
@@ -27,6 +29,16 @@ solve TIL lists one by one
 - 페르소나 설정
 - Pub/Sub 구조
 - 스케줄러
+- 디미터의 법칙
+- SOAP
+- NoSQL / SQL 차이
+- TDD
+- SLACK
+- pull request
+- HTTP 프로토콜의 이해
+- AWS
+
+
 
 <br>
 
@@ -50,6 +62,7 @@ solve TIL lists one by one
 - Set으로 합/교/차집합 구현
 - HashMap(new)과 Hashtable(old)
 - Design Pattern - Observer Pattern, Iterator Pattern
+- comparator 구현
 
 <br>
 
@@ -58,9 +71,12 @@ solve TIL lists one by one
 - oracle sequence
 - seq.nextval
 - row_number(), rank, rownum
+- Stored Procedure
+- sql hint, index
 
 <br>
 
+- RESTful API
 - Spring View에서 Test방법
 - EL표현식
 - junit의 역할
@@ -74,7 +90,7 @@ solve TIL lists one by one
 - @Configuration
 - dispatcher
 - ApplicationContext
-- @Autowired
+- DI 어노테이션 - @Autowired, RequiredArgsConstructor, AllArgsConstructor, Inject, ...
 - `<dependencies>`
 - 스프링 프로젝트 빌드 과정
 - 비지니스 로직(코드와 예제와 사용분야)
@@ -96,6 +112,7 @@ solve TIL lists one by one
 - 빌더패턴
 - resultMap과 resultType
 - RedirectAttributes rttr - addFlashAttribute / addAttribute
+- #{}와 ${}의 차이
 
 <br>
 
@@ -109,6 +126,7 @@ solve TIL lists one by one
 
 - JSON
 - ajax와 비동기
+- js - data-oper, preventDefault
 
 
 ### Ref.
