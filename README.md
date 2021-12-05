@@ -63,6 +63,7 @@
 - HashMap(new)과 Hashtable(old)
 - Design Pattern - Observer Pattern, Iterator Pattern
 - comparator 구현
+- Optional
 
 <br>
 
@@ -73,6 +74,7 @@
 - row_number(), rank, rownum
 - Stored Procedure
 - sql hint, index
+- 교착 상태(deadlock)
 
 <br>
 
