@@ -37,7 +37,32 @@
 - pull request
 - HTTP 프로토콜의 이해
 - AWS
+- EC2
 
+<br>
+
+
+
+//javascript
+alert()
+confirm()
+console.log()
+el.querySelector()
+el.querySelectorAll()
+
+//jQuery
+find()
+click()
+on()
+unbind()
+bind()
+text()
+val()
+prop()
+attr()
+children()
+parent()
+parents()
 
 
 <br>
@@ -97,6 +122,7 @@
 - 스프링 프로젝트 빌드 과정
 - 비지니스 로직(코드와 예제와 사용분야)
 - @RequestMapping - URL Mapping
+- ResponseBody
 - mysql과 oracle접속 (mysql은 8.0부터 연결시 키워드 필요)
 - - sqlSession / sqlSessionFactory
 - dataSource
