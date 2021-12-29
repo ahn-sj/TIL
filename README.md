@@ -42,7 +42,7 @@
 <br>
 
 
-
+border-box : box-sizing
 //javascript
 alert()
 confirm()
@@ -89,6 +89,7 @@ parents()
 - Design Pattern - Observer Pattern, Iterator Pattern
 - comparator 구현
 - Optional
+- gc(garbage colletion)
 
 <br>
 
